@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Celtic Shield Base -->
+    <path
+        android:fillColor="#F6B828"
+        android:pathData="M54,26 C68,26 80,33 80,48 C80,68 62,80 54,84 C46,80 28,68 28,48 C28,33 40,26 54,26 Z" />
+    <path
+        android:strokeColor="#D38A0E"
+        android:strokeWidth="2.5"
+        android:fillColor="#216A4C"
+        android:pathData="M54,30 C64,30 74,36 74,49 C74,65 59,75 54,79 C49,75 34,65 34,49 C34,36 44,30 54,30 Z" />
+    <!-- Celtic Triskelion knot symbol in shield center -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 C54,44 64,44 64,50 C64,56 56,58 54,54 Z" />
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 C46,58 42,50 47,46 C52,42 58,49 54,54 Z" />
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 C57,63 50,68 45,64 C40,60 48,53 54,54 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,51 A3,3 0 1 0 54,57 A3,3 0 1 0 54,51 Z" />
+</vector>

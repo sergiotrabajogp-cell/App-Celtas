@@ -1,0 +1,8 @@
+{
+  "name": "Aventura Celta",
+  "description": "App interactiva infantil para explorar el fascinante mundo de los Celtas con relatos narrados dinámicos, mapa del antiguo territorio celta, minijuegos arqueológicos, diario de explorador, tesoros coleccionables y logros desbloqueables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
